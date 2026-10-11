@@ -9,9 +9,10 @@
 - Evaluation: Hit@1 92%, Hit@5 98%, MRR 0.94, refusals 100% (development-set numbers).
 - Setup files: requirements, Streamlit theme config, secrets example, README, push script. Local git repo committed.
 
-## Left (needs your GitHub account)
-1. Create an empty repo named LAWTRACE on github.com.
-2. In the LAWTRACE folder run: `.\push_to_github.ps1 -User <your-username>`
-3. Deploy at share.streamlit.io → Create app → repo LAWTRACE, file app.py.
-4. Optional: add a Gemini key in the app's Secrets; add assets/supreme_court.jpg.
-5. Run `pip install -r requirements-dev.txt` then `pytest` once on your machine to run the 2 Streamlit-only tests.
+## Live
+- Repo: https://github.com/Himakshsharma/LAWTRACE
+- App: https://lawtrace.streamlit.app (auto-redeploys on every push to main)
+
+## Optional next steps
+- Add GEMINI_API_KEY in Streamlit → Manage app → Settings → Secrets for fuller answers and Hindi replies.
+- Run `pip install -r requirements-dev.txt` then `pytest` locally to run the 2 Streamlit-only tests.
