@@ -127,7 +127,7 @@ GATE = """
 .st-key-go_start .stButton button, .st-key-go_start button{border:1.5px solid var(--brass) !important; padding:.5rem 1.5rem !important; opacity:1 !important;}
 .st-key-go_start button:hover{background:var(--brass) !important; color:var(--ink) !important;}
 .st-key-enter, .st-key-enter .stButton{display:flex !important; justify-content:center !important; width:100% !important;}
-.st-key-enter button{font-family:var(--serif) !important; font-size:1.05rem !important; padding:.75rem 2.6rem !important;
+.st-key-enter button{width:auto !important; flex:0 0 auto !important; font-family:var(--serif) !important; font-size:1.05rem !important; padding:.75rem 2.6rem !important;
   border:1.5px solid var(--brass) !important; background:rgba(5,7,11,.45) !important; backdrop-filter:blur(3px);}
 .st-key-enter button:hover{background:var(--brass) !important; color:var(--ink) !important;}
 """
