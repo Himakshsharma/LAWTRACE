@@ -107,7 +107,14 @@ button[role="tab"][aria-selected="true"] p{color:var(--brass-hi);}
 GATE = """
 .stApp{background-image:linear-gradient(180deg, rgba(5,7,11,.30) 0%, rgba(5,7,11,.55) 45%, rgba(5,7,11,.92) 100%), {layers};
   background-size:cover; background-position:center 40%; background-attachment:fixed;}
+[data-testid="stAppViewContainer"], [data-testid="stMain"], [data-testid="stMainBlockContainer"], .main{background:transparent !important;}
 .block-container, [data-testid="stMainBlockContainer"]{max-width:1240px; padding-top:1.4rem;}
+@media (max-width:640px){
+  .st-key-gatenav [data-testid="stHorizontalBlock"]{flex-wrap:nowrap !important; align-items:center;}
+  .st-key-gatenav [data-testid="stColumn"]:not(:first-child):not(:last-child){display:none !important;}
+  .st-key-gatenav [data-testid="stColumn"]{width:auto !important; flex:1 1 auto !important; min-width:0 !important;}
+  .st-key-gatenav [data-testid="stColumn"]:last-child{flex:0 0 auto !important;}
+}
 .st-key-gatenav .stButton button{border:none; padding:.3rem .2rem; font-size:.95rem; opacity:.85; background:transparent;}
 .st-key-gatenav .stButton button:hover{background:transparent; color:var(--brass-hi); opacity:1;}
 .st-key-go_start .stButton button, .st-key-go_start button{border:1.5px solid var(--brass) !important; padding:.5rem 1.5rem !important; opacity:1 !important;}
