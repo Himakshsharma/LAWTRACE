@@ -44,7 +44,7 @@ def _pick(results: list[dict]) -> list[dict]:
     if not results:
         return []
     top = results[0]["score"]
-    keep = [r for r in results if r["score"] >= 0.72 * top or r["referenced"]]
+    keep = [r for r in results if r["score"] >= 0.8 * top or r["referenced"]]
     return keep[:3]
 
 

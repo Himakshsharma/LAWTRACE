@@ -146,6 +146,8 @@ def trace_retrieve(query: str, k: int = 5, act_filter: str | None = None):
 
     cand = sorted(fused, key=fused.get, reverse=True)[:POOL]
     q_tokens = set(lexical.tokenize(q_text))
+    bm_max = float(bm.max()) or 1.0
+    se_max = float(se.max()) or 1.0
     rescored = []
     for i in cand:
         c = idx.chunks[i]
@@ -155,7 +157,8 @@ def trace_retrieve(query: str, k: int = 5, act_filter: str | None = None):
             t = set(lexical.tokenize(c["title"] + " " + c.get("keywords", "")))
             title = set(lexical.tokenize(c["title"]))
             coverage = len(q_tokens & title) / len(title) if title else 0
-            extra = 0.012 * (len(q_tokens & t) / (len(t) ** 0.5 + 1)) + 0.01 * coverage
+            strength = 0.012 * bm[i] / bm_max + 0.012 * se[i] / se_max
+            extra = strength + 0.004 * (len(q_tokens & t) / (len(t) ** 0.5 + 1)) + 0.004 * coverage
         rescored.append((fused[i] + extra, i))
     rescored.sort(reverse=True)
 

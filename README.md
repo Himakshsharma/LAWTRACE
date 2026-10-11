@@ -39,9 +39,9 @@ Question (EN / HI / Hinglish) → language bridge → old-law & Article referenc
 
 | Metric | Value |
 |---|---|
-| Hit@1 | 92.2% |
-| Hit@5 | 98.0% |
-| MRR | 0.944 |
+| Hit@1 | 96.1% |
+| Hit@5 | 100% |
+| MRR | 0.980 |
 | Correct refusals (off-topic) | 100% |
 
 The keyword lists were refined while building this set, so treat these as development-set numbers. Add fresh questions to `evaluation/eval_set.json` for a fair held-out score. `--ragas` adds RAGAS faithfulness and answer relevancy when an LLM key is set.

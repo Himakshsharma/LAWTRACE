@@ -2,22 +2,11 @@
   "n": 56,
   "answerable": 51,
   "off_topic": 5,
-  "hit@1": 0.9215686274509803,
-  "hit@5": 0.9803921568627451,
-  "mrr": 0.9444444444444445,
+  "hit@1": 0.9607843137254902,
+  "hit@5": 1.0,
+  "mrr": 0.9803921568627451,
   "refusal_accuracy": 1.0,
   "misses": [
-    {
-      "q": "hit and run accident punishment",
-      "expected": [
-        "BNS-106"
-      ],
-      "got": [
-        "BNS-4",
-        "BNS-64",
-        "BNS-106"
-      ]
-    },
     {
       "q": "Where can I file a consumer complaint worth 30 lakh?",
       "expected": [
@@ -25,19 +14,8 @@
       ],
       "got": [
         "CPA-35",
-        "CPA-38",
-        "CPA-34"
-      ]
-    },
-    {
-      "q": "Is privacy a fundamental right?",
-      "expected": [
-        "Constitution-21"
-      ],
-      "got": [
-        "Constitution-13",
-        "Constitution-32",
-        "Constitution-300A"
+        "CPA-34",
+        "CPA-38"
       ]
     },
     {
