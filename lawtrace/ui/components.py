@@ -12,6 +12,9 @@ COMPONENT_CSS = """
 .lt-brand{display:flex; align-items:center; gap:.7rem; text-decoration:none;}
 .lt-brand svg{flex:none}
 .lt-brand b{font-family:var(--serif); font-weight:400; letter-spacing:.32em; font-size:1rem; color:var(--parchment);}
+.lt-brand .by{display:block; font-family:var(--serif); font-style:italic; font-size:.78rem; letter-spacing:.02em; color:var(--brass-hi); margin-top:.15rem; white-space:nowrap;}
+.lt-brand .word{line-height:1.1;}
+.lt-hero .credit{font-family:var(--serif); font-style:italic; font-size:clamp(.95rem,1.6vw,1.1rem); color:var(--brass-hi); margin:-.4rem 0 1.1rem; text-shadow:0 1px 10px rgba(0,0,0,.7);}
 
 /* gate hero */
 .lt-hero{text-align:center; margin:clamp(3rem,15vh,9rem) auto 1.6rem; max-width:860px; padding:0 16px;}
@@ -171,11 +174,12 @@ def brand(size: int = 34, word: bool = True) -> str:
     svg = (f'<svg width="{size}" height="{size}" viewBox="0 0 40 40" fill="none" stroke="#D9A93A" stroke-width="3" '
            'stroke-linecap="square" aria-hidden="true"><path d="M6 5v30h13"/><path d="M14 5h22M25 5v30"/>'
            '<path d="M14 13h6" stroke-width="2.4"/></svg>')
-    return f'<div class="lt-brand" aria-label="LAWTRACE">{svg}{"<b>LAWTRACE</b>" if word else ""}</div>'
+    word_html = '<div class="word"><b>LAWTRACE</b><span class="by">by Himaksh Sharma</span></div>' if word else ""
+    return f'<div class="lt-brand" aria-label="LAWTRACE by Himaksh Sharma">{svg}{word_html}</div>'
 
 
 def gate_hero() -> str:
-    return ('<div class="lt-hero"><h1>LAWTRACE</h1><div class="rule"></div>'
+    return ('<div class="lt-hero"><h1>LAWTRACE</h1><div class="credit">Founded and created by Himaksh Sharma</div><div class="rule"></div>'
             '<p>Every question about Indian law, traced to the section that answers it.</p></div>')
 
 

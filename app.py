@@ -389,6 +389,7 @@ def page_practice() -> None:
 # ─────────────────────────────── About ───────────────────────────────
 def page_about() -> None:
     head("How LAWTRACE works", "A retrieval-augmented assistant: it searches the law first, then answers only from what it found.")
+    st.markdown("**LAWTRACE was founded and created by Himaksh Sharma** as a one-place study companion for Indian law students.")
     idx = warm_index()
     st.markdown('<div class="lt-pipe"><span>Bare acts (PDF)</span><i>→</i><span>Section-aware chunks</span><i>→</i>'
                 '<span>BM25 index</span><span>Meaning index</span><i>→</i><span>Rank fusion</span><i>→</i>'

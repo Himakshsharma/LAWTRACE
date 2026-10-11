@@ -1,5 +1,7 @@
 # LAWTRACE
 
+*Founded and created by **Himaksh Sharma**.*
+
 **One place for Indian law students.** Ask any legal question in English or Hindi and get an answer traced to the exact section it comes from, with a live view of how the search found it.
 
 ![Entrance](assets/screenshot-gate.png)
