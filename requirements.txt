@@ -1,0 +1,10 @@
+streamlit>=1.44,<2
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.4
+pypdf>=4.0
+google-genai>=1.0
+# Optional upgrades (heavier; not needed on Streamlit Community Cloud):
+# pymupdf>=1.24            # faster, cleaner PDF parsing
+# sentence-transformers>=3 # USE_DENSE_EMBEDDINGS=true / USE_CROSS_ENCODER=true
+# ragas datasets           # python -m evaluation.run_eval --ragas

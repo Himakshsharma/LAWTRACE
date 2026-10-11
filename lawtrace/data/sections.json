@@ -1,0 +1,906 @@
+[
+{
+"act": "Constitution",
+"sec": "13",
+"title": "Laws inconsistent with Fundamental Rights",
+"text": "Any law in force before the Constitution, and any law made by the State after it, is void to the extent it is inconsistent with or takes away the Fundamental Rights in Part III. 'Law' includes ordinances, orders, bye-laws, rules, regulations, notifications, customs and usages having the force of law.",
+"plain": "If a law breaks your Fundamental Rights, courts can strike down that part of the law. This is the base of judicial review.",
+"kw": "judicial review void law fundamental rights doctrine of eclipse severability"
+},
+{
+"act": "Constitution",
+"sec": "14",
+"title": "Equality before law",
+"text": "The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India.",
+"plain": "Everyone, citizen or not, is equal before the law. The State may classify people only on a reasonable basis connected to the law's purpose; arbitrary action violates Article 14.",
+"kw": "equality equal protection arbitrariness reasonable classification discrimination"
+},
+{
+"act": "Constitution",
+"sec": "15",
+"title": "No discrimination on certain grounds",
+"text": "The State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth or any of them. Access to shops, restaurants, wells and public places cannot be denied on these grounds. The State may make special provisions for women and children, for socially and educationally backward classes, SCs and STs, and for economically weaker sections.",
+"plain": "The government cannot treat citizens differently only because of religion, race, caste, sex or birthplace, but it can make special provisions to help disadvantaged groups.",
+"kw": "discrimination religion caste sex reservation women children backward classes EWS"
+},
+{
+"act": "Constitution",
+"sec": "17",
+"title": "Abolition of untouchability",
+"text": "Untouchability is abolished and its practice in any form is forbidden. Enforcing any disability arising out of untouchability is an offence punishable by law.",
+"plain": "Untouchability is banned completely, and practising it is a crime.",
+"kw": "untouchability caste discrimination"
+},
+{
+"act": "Constitution",
+"sec": "19",
+"title": "Six freedoms of citizens",
+"text": "All citizens have the right to (a) freedom of speech and expression, (b) assemble peaceably and without arms, (c) form associations, unions or co-operative societies, (d) move freely throughout India, (e) reside and settle in any part of India, and (g) practise any profession or carry on any occupation, trade or business. Clauses (2) to (6) allow reasonable restrictions, for example in the interests of sovereignty and integrity of India, security of the State, public order, decency or morality, contempt of court and defamation.",
+"plain": "Citizens have six freedoms, including free speech, peaceful protest and choosing their work. The State can limit them only by reasonable restrictions on the grounds listed in the Constitution.",
+"kw": "freedom speech expression protest assembly association movement profession reasonable restrictions press"
+},
+{
+"act": "Constitution",
+"sec": "20",
+"title": "Protection in respect of conviction for offences",
+"text": "(1) No person shall be convicted for an act that was not an offence when committed, nor given a greater penalty than the law then provided. (2) No person shall be prosecuted and punished for the same offence more than once. (3) No person accused of an offence shall be compelled to be a witness against himself.",
+"plain": "You cannot be punished under a law made after your act, cannot be punished twice for the same offence, and cannot be forced to give evidence against yourself.",
+"kw": "ex post facto double jeopardy self incrimination right to silence"
+},
+{
+"act": "Constitution",
+"sec": "21",
+"title": "Protection of life and personal liberty",
+"text": "No person shall be deprived of his life or personal liberty except according to procedure established by law.",
+"plain": "Your life and liberty can be taken away only through a fair, just and reasonable legal procedure. Courts read this to include privacy, dignity, a clean environment, livelihood, speedy trial and legal aid.",
+"kw": "life liberty privacy dignity due process speedy trial livelihood environment right to privacy Puttaswamy"
+},
+{
+"act": "Constitution",
+"sec": "21A",
+"title": "Right to education",
+"text": "The State shall provide free and compulsory education to all children aged six to fourteen years, in the manner the State may by law determine.",
+"plain": "Every child between 6 and 14 has a Fundamental Right to free and compulsory education. The RTE Act, 2009 puts this into practice.",
+"kw": "education children school RTE free compulsory"
+},
+{
+"act": "Constitution",
+"sec": "22",
+"title": "Protection against arrest and detention",
+"text": "A person who is arrested must be told the grounds of arrest as soon as may be, has the right to consult and be defended by a legal practitioner of choice, and must be produced before the nearest magistrate within 24 hours of arrest, excluding travel time. No further custody is allowed without a magistrate's authority. These safeguards do not apply to enemy aliens or to persons under preventive detention laws, which have separate safeguards.",
+"plain": "If you are arrested you must be told why, you may talk to a lawyer, and you must be taken before a magistrate within 24 hours.",
+"kw": "arrest detention grounds lawyer magistrate 24 hours preventive detention how long police custody"
+},
+{
+"act": "Constitution",
+"sec": "32",
+"title": "Remedies for enforcement of Fundamental Rights",
+"text": "The right to move the Supreme Court for enforcement of Fundamental Rights is itself guaranteed. The Supreme Court can issue directions, orders or writs, including habeas corpus, mandamus, prohibition, quo warranto and certiorari.",
+"plain": "If your Fundamental Right is violated you can go directly to the Supreme Court. Dr Ambedkar called Article 32 the heart and soul of the Constitution.",
+"kw": "writ habeas corpus mandamus certiorari prohibition quo warranto supreme court PIL"
+},
+{
+"act": "Constitution",
+"sec": "39A",
+"title": "Equal justice and free legal aid",
+"text": "The State shall secure that the legal system promotes justice on the basis of equal opportunity, and shall provide free legal aid so that no citizen is denied justice because of economic or other disabilities.",
+"plain": "A Directive Principle: the State must make sure poverty never stops anyone from getting justice. NALSA and legal services authorities implement this.",
+"kw": "legal aid free lawyer NALSA directive principle poor"
+},
+{
+"act": "Constitution",
+"sec": "51A",
+"title": "Fundamental Duties",
+"text": "Lists the duties of every citizen, such as to abide by the Constitution and respect the National Flag and Anthem, protect sovereignty, promote harmony, protect the environment, develop scientific temper, safeguard public property, and for parents to provide opportunities for education to children aged six to fourteen.",
+"plain": "Citizens also have duties: respect the Constitution, protect the environment and public property, and help their children get educated. Courts cannot directly enforce them, but use them to interpret laws.",
+"kw": "fundamental duties citizen environment scientific temper"
+},
+{
+"act": "Constitution",
+"sec": "124",
+"title": "Establishment of the Supreme Court",
+"text": "There shall be a Supreme Court of India consisting of a Chief Justice of India and other judges as Parliament may by law prescribe. Judges are appointed by the President and hold office until 65 years of age, and can be removed only by an order of the President after an address by each House of Parliament on the ground of proved misbehaviour or incapacity.",
+"plain": "Creates the Supreme Court. Judges retire at 65 and can be removed only through a special parliamentary process.",
+"kw": "supreme court judges chief justice appointment removal impeachment"
+},
+{
+"act": "Constitution",
+"sec": "136",
+"title": "Special leave to appeal",
+"text": "The Supreme Court may, in its discretion, grant special leave to appeal from any judgment, decree, determination, sentence or order passed by any court or tribunal in India, except military tribunals.",
+"plain": "The Supreme Court can choose to hear an appeal against almost any court or tribunal decision. This is the Special Leave Petition (SLP).",
+"kw": "SLP special leave petition appeal discretion"
+},
+{
+"act": "Constitution",
+"sec": "141",
+"title": "Supreme Court decisions bind all courts",
+"text": "The law declared by the Supreme Court shall be binding on all courts within the territory of India.",
+"plain": "Once the Supreme Court decides a legal point, every court in India must follow it. This is the rule of binding precedent.",
+"kw": "precedent binding stare decisis ratio decidendi"
+},
+{
+"act": "Constitution",
+"sec": "226",
+"title": "Power of High Courts to issue writs",
+"text": "Every High Court can issue directions, orders or writs, including habeas corpus, mandamus, prohibition, quo warranto and certiorari, for enforcement of Fundamental Rights and for any other purpose, to any person or authority within its territorial jurisdiction.",
+"plain": "High Courts can issue writs too, and their power is wider than Article 32 because they can act for legal rights beyond Fundamental Rights.",
+"kw": "writ high court habeas corpus mandamus certiorari jurisdiction"
+},
+{
+"act": "Constitution",
+"sec": "300A",
+"title": "Right to property",
+"text": "No person shall be deprived of his property save by authority of law.",
+"plain": "Property can be taken from you only under a valid law. Since 1978 this is a constitutional right, not a Fundamental Right.",
+"kw": "property acquisition 44th amendment"
+},
+{
+"act": "Constitution",
+"sec": "368",
+"title": "Power of Parliament to amend the Constitution",
+"text": "Parliament may amend the Constitution by special majority in each House, and for certain provisions affecting federal structure also with ratification by at least half of the State legislatures.",
+"plain": "Parliament can change the Constitution, but after Kesavananda Bharati (1973) it cannot destroy its basic structure.",
+"kw": "amendment basic structure special majority ratification"
+},
+{
+"act": "BNS",
+"sec": "3(5)",
+"title": "Acts done by several persons with common intention",
+"text": "When a criminal act is done by several persons in furtherance of the common intention of all, each of them is liable for that act in the same manner as if it were done by him alone.",
+"plain": "If a group plans a crime together and carries it out, each person is treated as if they did the whole act. This was Section 34 of the IPC.",
+"kw": "common intention group joint liability IPC 34"
+},
+{
+"act": "BNS",
+"sec": "4",
+"title": "Punishments",
+"text": "The punishments to which offenders are liable are: death; imprisonment for life; imprisonment, rigorous or simple; forfeiture of property; fine; and community service.",
+"plain": "The BNS allows six kinds of punishment. Community service is new and is used for some minor offences.",
+"kw": "punishment death life imprisonment fine community service"
+},
+{
+"act": "BNS",
+"sec": "20",
+"title": "Act of a child under seven years",
+"text": "Nothing is an offence which is done by a child under seven years of age.",
+"plain": "A child below 7 can never be guilty of a crime. Between 7 and 12, a child is not guilty if not mature enough to understand the act (Section 21).",
+"kw": "child age doli incapax criminal responsibility minor"
+},
+{
+"act": "BNS",
+"sec": "34",
+"title": "Things done in private defence",
+"text": "Nothing is an offence which is done in the exercise of the right of private defence. Sections 35 to 44 set out the right to defend one's own or another's body and property, and its limits.",
+"plain": "Defending yourself or others is not a crime, as long as the force used is reasonable and within the limits in Sections 35 to 44.",
+"kw": "private defence self defence body property IPC 96"
+},
+{
+"act": "BNS",
+"sec": "61",
+"title": "Criminal conspiracy",
+"text": "When two or more persons agree to do, or cause to be done, an illegal act, or a legal act by illegal means, the agreement is a criminal conspiracy. Punishment depends on the offence agreed to be committed.",
+"plain": "Agreeing with others to commit a crime is itself an offence. This combines IPC 120A and 120B.",
+"kw": "conspiracy agreement IPC 120B"
+},
+{
+"act": "BNS",
+"sec": "63",
+"title": "Rape",
+"text": "Defines rape as specified sexual acts by a man with a woman against her will, without her consent, with consent obtained by fear or fraud, or when she is under eighteen years of age, among other circumstances.",
+"plain": "Defines the offence of rape, focusing on lack of free consent. Consent of a girl under 18 is not valid consent.",
+"kw": "rape consent sexual offence IPC 375"
+},
+{
+"act": "BNS",
+"sec": "64",
+"title": "Punishment for rape",
+"text": "Whoever commits rape shall be punished with rigorous imprisonment of not less than ten years, which may extend to imprisonment for life, and fine. Higher punishments apply in aggravated cases.",
+"plain": "Rape is punished with at least 10 years in jail, up to life imprisonment, plus a fine.",
+"kw": "rape punishment IPC 376"
+},
+{
+"act": "BNS",
+"sec": "69",
+"title": "Sexual intercourse by deceitful means",
+"text": "Whoever by deceitful means, or by making a promise to marry without intending to fulfil it, has sexual intercourse with a woman, not amounting to rape, shall be punished with imprisonment up to ten years and fine. Deceitful means include false promises of employment or promotion, or marrying by suppressing identity.",
+"plain": "A new offence: getting sexual consent through false promises of marriage or jobs, or by hiding identity.",
+"kw": "false promise marriage deceit new offence"
+},
+{
+"act": "BNS",
+"sec": "74",
+"title": "Assault or criminal force to outrage a woman's modesty",
+"text": "Whoever assaults or uses criminal force on a woman intending to outrage, or knowing it likely to outrage, her modesty shall be punished with imprisonment of one to five years and fine.",
+"plain": "Physically attacking a woman to violate her dignity is punishable with 1 to 5 years in jail.",
+"kw": "modesty molestation woman harassment IPC 354"
+},
+{
+"act": "BNS",
+"sec": "78",
+"title": "Stalking",
+"text": "A man who follows a woman and contacts or attempts to contact her repeatedly despite clear disinterest, or monitors her use of the internet, email or electronic communication, commits stalking. First conviction: up to three years and fine; subsequent conviction: up to five years and fine.",
+"plain": "Repeatedly following, contacting or monitoring a woman online against her wishes is stalking.",
+"kw": "stalking online harassment cyberstalking IPC 354D"
+},
+{
+"act": "BNS",
+"sec": "79",
+"title": "Insulting the modesty of a woman",
+"text": "Whoever, intending to insult a woman's modesty, utters any word, makes any sound or gesture, or exhibits any object, or intrudes upon her privacy, shall be punished with simple imprisonment up to three years and fine.",
+"plain": "Insulting words, gestures or objects aimed at a woman's modesty are punishable with up to 3 years.",
+"kw": "eve teasing gesture words insult woman IPC 509"
+},
+{
+"act": "BNS",
+"sec": "80",
+"title": "Dowry death",
+"text": "Where a woman dies by burns or bodily injury, or otherwise than in normal circumstances, within seven years of marriage, and it is shown that soon before her death she was subjected to cruelty or harassment by her husband or his relatives in connection with a demand for dowry, it is a dowry death. Punishment is imprisonment of not less than seven years, which may extend to life.",
+"plain": "An unnatural death of a wife within 7 years of marriage, after dowry harassment, is dowry death. Minimum 7 years in jail.",
+"kw": "dowry death marriage seven years harassment IPC 304B"
+},
+{
+"act": "BNS",
+"sec": "85",
+"title": "Cruelty by husband or his relatives",
+"text": "Whoever, being the husband or a relative of the husband of a woman, subjects her to cruelty shall be punished with imprisonment up to three years and fine. Section 86 defines cruelty as wilful conduct likely to drive her to suicide or cause grave injury, or harassment to coerce her or her relatives to meet unlawful demands for property.",
+"plain": "Mental or physical cruelty to a wife by her husband or in-laws, including dowry harassment, can mean up to 3 years in jail.",
+"kw": "cruelty domestic violence dowry husband in-laws IPC 498A"
+},
+{
+"act": "BNS",
+"sec": "100",
+"title": "Culpable homicide",
+"text": "Whoever causes death by doing an act with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that the act is likely to cause death, commits culpable homicide.",
+"plain": "Killing someone with intent or knowledge that death is likely. It is the wider category; murder is its most serious form.",
+"kw": "culpable homicide killing death intention knowledge IPC 299"
+},
+{
+"act": "BNS",
+"sec": "101",
+"title": "Murder",
+"text": "Culpable homicide is murder if the act is done with the intention of causing death, or of causing an injury the offender knows is likely to cause the victim's death, or an injury sufficient in the ordinary course of nature to cause death, or if the act is so imminently dangerous that it must in all probability cause death. Exceptions include grave and sudden provocation, exceeding private defence in good faith, and sudden fight.",
+"plain": "Murder is the most serious kind of culpable homicide. Some situations, like sudden provocation, reduce it to culpable homicide not amounting to murder.",
+"kw": "murder killing intention exceptions provocation IPC 300"
+},
+{
+"act": "BNS",
+"sec": "103",
+"title": "Punishment for murder",
+"text": "(1) Whoever commits murder shall be punished with death or imprisonment for life, and fine. (2) When a group of five or more persons acting in concert commits murder on the ground of race, caste or community, sex, place of birth, language, personal belief or any other similar ground, each member shall be punished with death or imprisonment for life, and fine.",
+"plain": "Murder is punished with death or life imprisonment. Sub-section (2) specifically covers mob lynching.",
+"kw": "murder punishment death penalty life imprisonment mob lynching IPC 302"
+},
+{
+"act": "BNS",
+"sec": "105",
+"title": "Punishment for culpable homicide not amounting to murder",
+"text": "If the act is done with intention to cause death or likely-fatal injury: imprisonment for life, or imprisonment of five to ten years, and fine. If done only with knowledge that it is likely to cause death: imprisonment up to ten years and fine.",
+"plain": "Killing that is not murder carries life imprisonment or a fixed term, depending on intention.",
+"kw": "culpable homicide not murder punishment IPC 304"
+},
+{
+"act": "BNS",
+"sec": "106",
+"title": "Causing death by negligence",
+"text": "(1) Whoever causes the death of any person by a rash or negligent act not amounting to culpable homicide shall be punished with imprisonment up to five years and fine; for a registered medical practitioner during a medical procedure, up to two years and fine. (2) Causing death by rash and negligent driving and escaping without reporting to a police officer or magistrate soon after: imprisonment up to ten years and fine.",
+"plain": "Causing death through carelessness can mean up to 5 years. Hit-and-run without reporting is treated more strictly under sub-section (2); check its current enforcement status, as it was deferred after transporters' protests.",
+"kw": "negligence accident hit and run rash driving medical negligence IPC 304A road accident"
+},
+{
+"act": "BNS",
+"sec": "115",
+"title": "Voluntarily causing hurt",
+"text": "Whoever does an act intending to cause, or knowing it likely to cause, hurt to any person, and does cause hurt, voluntarily causes hurt. Punishment: imprisonment up to one year, or fine up to ten thousand rupees, or both.",
+"plain": "Hurting someone on purpose can mean up to 1 year in jail or a fine up to ₹10,000.",
+"kw": "hurt assault injury beating IPC 323"
+},
+{
+"act": "BNS",
+"sec": "117",
+"title": "Voluntarily causing grievous hurt",
+"text": "Grievous hurt includes emasculation, permanent loss of sight or hearing, loss or impairment of a limb or joint, permanent disfigurement of head or face, fracture or dislocation of bone or tooth, and hurt causing severe pain or inability to follow ordinary pursuits for fifteen days. Punishment: imprisonment up to seven years and fine.",
+"plain": "Serious injuries like fractures or permanent damage are 'grievous hurt', punishable up to 7 years.",
+"kw": "grievous hurt fracture serious injury IPC 325"
+},
+{
+"act": "BNS",
+"sec": "152",
+"title": "Acts endangering sovereignty, unity and integrity of India",
+"text": "Whoever purposely or knowingly, by words, signs, visible representation, electronic communication, financial means or otherwise, excites or attempts to excite secession, armed rebellion or subversive activities, or encourages feelings of separatist activities, or endangers the sovereignty or unity and integrity of India, shall be punished with imprisonment for life or up to seven years, and fine.",
+"plain": "Replaces the old sedition law (IPC 124A). It targets acts that threaten India's unity, not criticism of the government.",
+"kw": "sedition sovereignty integrity secession IPC 124A"
+},
+{
+"act": "BNS",
+"sec": "303",
+"title": "Theft",
+"text": "Whoever, intending to take any movable property dishonestly out of another's possession without consent, moves that property, commits theft. Punishment: imprisonment up to three years, or fine, or both; on a second or later conviction, rigorous imprisonment of one to five years and fine. Where the value is less than five thousand rupees and the property is returned or restored on a first conviction, the punishment can be community service.",
+"plain": "Dishonestly taking someone's movable property without permission is theft: up to 3 years. Small first-time thefts can get community service.",
+"kw": "theft stealing chori movable property IPC 378 379"
+},
+{
+"act": "BNS",
+"sec": "304",
+"title": "Snatching",
+"text": "Theft is snatching if, to commit it, the offender suddenly or quickly or forcibly seizes or grabs movable property from a person. Punishment: imprisonment up to three years and fine.",
+"plain": "Grabbing a phone, chain or bag from someone is now a separate offence called snatching.",
+"kw": "snatching chain phone grab new offence"
+},
+{
+"act": "BNS",
+"sec": "308",
+"title": "Extortion",
+"text": "Whoever intentionally puts any person in fear of injury to that person or another, and thereby dishonestly induces the person to deliver property or valuable security, commits extortion. Punishment: imprisonment up to seven years, or fine, or both.",
+"plain": "Making someone hand over property by threatening them is extortion.",
+"kw": "extortion threat ransom blackmail IPC 383 384"
+},
+{
+"act": "BNS",
+"sec": "309",
+"title": "Robbery",
+"text": "Theft is robbery if, in committing it or carrying away the property, the offender voluntarily causes or attempts to cause death, hurt or wrongful restraint, or fear of these. Extortion is robbery if the offender is in the presence of the person put in fear. Punishment: rigorous imprisonment up to ten years and fine.",
+"plain": "Theft or extortion with violence or immediate threat becomes robbery: up to 10 years.",
+"kw": "robbery violence theft IPC 390 392"
+},
+{
+"act": "BNS",
+"sec": "316",
+"title": "Criminal breach of trust",
+"text": "Whoever, being entrusted with property or dominion over it, dishonestly misappropriates it, converts it to own use, or uses or disposes of it in violation of law or contract, commits criminal breach of trust. Punishment: imprisonment up to five years, or fine, or both.",
+"plain": "Misusing money or property that someone trusted you with is criminal breach of trust.",
+"kw": "breach of trust misappropriation entrusted IPC 405 406"
+},
+{
+"act": "BNS",
+"sec": "318",
+"title": "Cheating",
+"text": "Whoever, by deceiving any person, fraudulently or dishonestly induces that person to deliver property, or intentionally induces them to do or omit something they would not otherwise do, causing damage or harm, cheats. Sub-section (2): imprisonment up to three years, or fine, or both. Sub-section (4): cheating and dishonestly inducing delivery of property, imprisonment up to seven years and fine.",
+"plain": "Tricking someone into giving money or property is cheating. Section 318(4) is the new 'IPC 420'.",
+"kw": "cheating fraud 420 deception online fraud IPC 415 420"
+},
+{
+"act": "BNS",
+"sec": "329",
+"title": "Criminal trespass and house-trespass",
+"text": "Whoever enters into or upon property in another's possession with intent to commit an offence or to intimidate, insult or annoy the person in possession, or having lawfully entered remains there unlawfully with such intent, commits criminal trespass. Entering a building used as a dwelling, place of worship or for custody of property is house-trespass.",
+"plain": "Entering someone's property to commit a crime or harass them is criminal trespass.",
+"kw": "trespass entering property house IPC 441 447"
+},
+{
+"act": "BNS",
+"sec": "351",
+"title": "Criminal intimidation",
+"text": "Whoever threatens another with injury to person, reputation or property, intending to cause alarm or to make them do or not do something, commits criminal intimidation. Punishment: imprisonment up to two years, or fine, or both; if the threat is to cause death or grievous hurt or similar, up to seven years.",
+"plain": "Threatening someone to scare them or force them to act is criminal intimidation.",
+"kw": "threat intimidation dhamki IPC 503 506 threaten kill death threat threatened"
+},
+{
+"act": "BNS",
+"sec": "356",
+"title": "Defamation",
+"text": "Whoever, by words spoken or written, signs or visible representations, makes or publishes any imputation concerning any person intending to harm, or knowing it will harm, that person's reputation, defames them, subject to exceptions such as truth for public good and fair comment. Punishment: simple imprisonment up to two years, or fine, or both, or community service.",
+"plain": "Harming someone's reputation with false claims is defamation. Truth for public good and fair opinion are defences.",
+"kw": "defamation reputation manhani social media IPC 499 500 false post reputation lies"
+},
+{
+"act": "BNSS",
+"sec": "35",
+"title": "When police may arrest without warrant",
+"text": "A police officer may arrest without a warrant in specified situations, such as a cognizable offence committed in their presence, or on credible information about an offence punishable up to seven years where arrest is necessary to prevent further offences, ensure proper investigation or prevent tampering. Under sub-section (3), where arrest is not required, the officer shall issue a notice of appearance. Under sub-section (7), no arrest shall be made without permission of an officer not below the rank of Deputy Superintendent of Police for an offence punishable with less than three years if the accused is infirm or above sixty years of age.",
+"plain": "Police can arrest without a warrant only in certain cases. For offences up to 7 years they must record why arrest is necessary, and often just issue a notice to appear instead.",
+"kw": "arrest without warrant police notice of appearance 41A CrPC 41"
+},
+{
+"act": "BNSS",
+"sec": "36",
+"title": "Procedure of arrest and duties of officer making arrest",
+"text": "Every police officer making an arrest shall bear an accurate, visible and clear identification of name, prepare a memorandum of arrest attested by at least one witness (a family member or a respectable person of the locality) and countersigned by the arrested person, and inform the arrested person, unless the memo is attested by a family member, of the right to have a relative or friend informed.",
+"plain": "Police must show their name, prepare a signed arrest memo with a witness, and tell you your family can be informed.",
+"kw": "arrest memo procedure DK Basu CrPC 41B"
+},
+{
+"act": "BNSS",
+"sec": "38",
+"title": "Right of arrested person to meet an advocate",
+"text": "When any person is arrested and interrogated by the police, they shall be entitled to meet an advocate of their choice during interrogation, though not throughout the interrogation.",
+"plain": "You may meet your lawyer during police questioning.",
+"kw": "lawyer advocate interrogation rights arrested CrPC 41D"
+},
+{
+"act": "BNSS",
+"sec": "47",
+"title": "Person arrested to be informed of grounds and of right to bail",
+"text": "Every police officer arresting a person without warrant shall forthwith communicate the full particulars of the offence or other grounds of arrest. Where the offence is bailable, the person shall be informed of the right to be released on bail and to arrange sureties.",
+"plain": "Police must immediately tell you why you are arrested and, for bailable offences, that you can get bail.",
+"kw": "grounds of arrest bail right informed CrPC 50"
+},
+{
+"act": "BNSS",
+"sec": "48",
+"title": "Obligation to inform relative or friend about arrest",
+"text": "Every police officer making an arrest shall forthwith inform a relative, friend or other nominated person, and also the designated police officer in the district, about the arrest and the place of detention.",
+"plain": "Police must inform someone you choose about your arrest and where you are held.",
+"kw": "inform family arrest place of detention CrPC 50A"
+},
+{
+"act": "BNSS",
+"sec": "58",
+"title": "Person arrested not to be detained more than 24 hours",
+"text": "No police officer shall detain a person arrested without warrant for longer than is reasonable, and this period shall not exceed twenty-four hours, exclusive of travel time to the Magistrate's court, without a special order of a Magistrate.",
+"plain": "Police cannot keep you more than 24 hours without a magistrate's order.",
+"kw": "24 hours detention magistrate custody CrPC 57 how long keep custody hours police station"
+},
+{
+"act": "BNSS",
+"sec": "144",
+"title": "Order for maintenance of wives, children and parents",
+"text": "A Magistrate of the first class may order a person with sufficient means who neglects or refuses to maintain his wife unable to maintain herself, his minor children, his major child unable to maintain itself due to abnormality or injury, or his father or mother unable to maintain themselves, to pay a monthly allowance.",
+"plain": "A wife, children or parents who cannot support themselves can ask the court to make the earning person pay monthly maintenance.",
+"kw": "maintenance wife children parents allowance divorce CrPC 125"
+},
+{
+"act": "BNSS",
+"sec": "173",
+"title": "Information in cognizable cases (FIR)",
+"text": "Every information relating to a cognizable offence, irrespective of the area where the offence is committed, may be given orally or by electronic communication to the officer in charge of a police station. Information given electronically must be signed by the informant within three days. A copy of the information shall be given free of cost to the informant or victim. For offences punishable with three to seven years, the officer may, with prior permission of a Deputy Superintendent of Police, conduct a preliminary enquiry within fourteen days. If the officer refuses to record the information, the person may send it to the Superintendent of Police.",
+"plain": "You can file an FIR at any police station, even if the crime happened elsewhere (Zero FIR), and even online (e-FIR, signed within 3 days). You get a free copy.",
+"kw": "FIR zero FIR e-FIR police complaint cognizable register CrPC 154 how to file lodge report crime online"
+},
+{
+"act": "BNSS",
+"sec": "176",
+"title": "Procedure for investigation",
+"text": "The officer in charge shall send a report to the Magistrate and proceed to investigate. For every offence punishable with seven years or more, the officer shall cause a forensics expert to visit the crime scene to collect forensic evidence and have the process videographed. Statements of a victim of rape may be recorded through audio-video electronic means.",
+"plain": "For serious offences (7 years or more), a forensic team must visit the crime scene and the process is filmed.",
+"kw": "investigation forensic crime scene videography CrPC 157"
+},
+{
+"act": "BNSS",
+"sec": "180",
+"title": "Examination of witnesses by police",
+"text": "Any police officer making an investigation may examine orally any person supposed to be acquainted with the facts and circumstances of the case. The person is bound to answer truly, except questions whose answers would expose them to a criminal charge. Statements may be recorded by audio-video electronic means.",
+"plain": "Police can question witnesses during investigation. You do not have to answer questions that would incriminate you.",
+"kw": "witness statement police examination CrPC 161"
+},
+{
+"act": "BNSS",
+"sec": "183",
+"title": "Recording of confessions and statements by Magistrate",
+"text": "A Magistrate may record any confession or statement made during investigation. Before recording a confession, the Magistrate must explain that the person is not bound to confess and that it may be used as evidence, and must be satisfied it is voluntary. The process may be recorded by audio-video means in the presence of the accused's advocate.",
+"plain": "Confessions are valid only if recorded by a magistrate after making sure they are voluntary.",
+"kw": "confession magistrate statement voluntary CrPC 164"
+},
+{
+"act": "BNSS",
+"sec": "187",
+"title": "Procedure when investigation cannot be completed in 24 hours",
+"text": "The Magistrate may authorise detention, in police or judicial custody, for up to fifteen days in total of police custody, which may be taken in parts during the first forty or sixty days of the detention period. Total detention cannot exceed ninety days for offences punishable with death, life imprisonment or ten years or more, and sixty days for other offences; after that the accused is entitled to bail if ready to furnish it (default bail).",
+"plain": "Police custody is limited to 15 days in total. If the charge sheet is not filed within 60 or 90 days, the accused gets 'default bail'.",
+"kw": "remand police custody judicial custody default bail 60 90 days CrPC 167"
+},
+{
+"act": "BNSS",
+"sec": "193",
+"title": "Report of police officer on completion of investigation",
+"text": "Every investigation shall be completed without unnecessary delay. Investigation of certain sexual offences against women and children shall be completed within two months of recording the information. On completion, the officer forwards a report (charge sheet) to the Magistrate, and shall inform the informant or victim of the progress of investigation within ninety days.",
+"plain": "After investigation, police file a final report or charge sheet. Victims must be updated on progress within 90 days.",
+"kw": "charge sheet final report investigation complete CrPC 173"
+},
+{
+"act": "BNSS",
+"sec": "356",
+"title": "Inquiry, trial or judgment in absentia of proclaimed offender",
+"text": "When a person declared a proclaimed offender has absconded to evade trial and there is no immediate prospect of arrest, the Court may, after following prescribed safeguards, proceed with the trial and pronounce judgment in the person's absence.",
+"plain": "A new rule: courts can try and convict absconding proclaimed offenders even if they never appear.",
+"kw": "trial in absentia proclaimed offender absconding"
+},
+{
+"act": "BNSS",
+"sec": "478",
+"title": "Bail in bailable offences",
+"text": "When a person accused of a bailable offence is arrested or detained without warrant and is ready to give bail, they shall be released on bail. If the person is indigent and cannot furnish surety, the officer or Court may release them on executing a bond without sureties.",
+"plain": "For bailable offences, bail is your right; you must be released if you give bail.",
+"kw": "bailable offence bail right bond surety CrPC 436"
+},
+{
+"act": "BNSS",
+"sec": "479",
+"title": "Maximum period for which an undertrial prisoner can be detained",
+"text": "An undertrial who has undergone detention for up to one-half of the maximum imprisonment for the offence shall be released on bail. A first-time offender shall be released on bond after undergoing one-third of the maximum period. This does not apply to offences punishable with death or life imprisonment.",
+"plain": "Undertrials who have spent half (first-time offenders: one-third) of the maximum sentence in jail must be released on bail.",
+"kw": "undertrial detention maximum period bail first time offender CrPC 436A"
+},
+{
+"act": "BNSS",
+"sec": "480",
+"title": "When bail may be taken in non-bailable offences",
+"text": "A person accused of a non-bailable offence may be released on bail, but not if there are reasonable grounds to believe they are guilty of an offence punishable with death or life imprisonment, subject to exceptions for children, women, and sick or infirm persons. Bail is discretionary and the court may impose conditions.",
+"plain": "For non-bailable offences, bail is up to the court's discretion, and it is harder to get for the most serious crimes.",
+"kw": "non-bailable bail discretion conditions CrPC 437"
+},
+{
+"act": "BNSS",
+"sec": "482",
+"title": "Direction for grant of bail to person apprehending arrest",
+"text": "When a person has reason to believe they may be arrested on an accusation of a non-bailable offence, they may apply to the High Court or the Court of Session for a direction that, in the event of arrest, they shall be released on bail (anticipatory bail). The Court may impose conditions.",
+"plain": "If you fear arrest for a non-bailable offence, you can ask the Sessions Court or High Court for anticipatory bail in advance.",
+"kw": "anticipatory bail fear of arrest pre-arrest bail CrPC 438"
+},
+{
+"act": "BNSS",
+"sec": "483",
+"title": "Special powers of High Court or Court of Session regarding bail",
+"text": "A High Court or Court of Session may direct that any person accused of an offence and in custody be released on bail, impose conditions it considers necessary, and set aside or modify conditions imposed by a Magistrate. It may also direct that a person released on bail be arrested and committed to custody.",
+"plain": "If a Magistrate refuses bail, you can apply to the Sessions Court or High Court, which have wider bail powers and can also cancel bail.",
+"kw": "regular bail high court sessions court cancel bail conditions CrPC 439"
+},
+{
+"act": "BNSS",
+"sec": "528",
+"title": "Saving of inherent powers of High Court",
+"text": "Nothing in the Sanhita shall limit or affect the inherent powers of the High Court to make orders necessary to give effect to any order under the Sanhita, to prevent abuse of the process of any Court, or otherwise to secure the ends of justice.",
+"plain": "High Courts can step in, for example to quash a false FIR, to prevent misuse of the legal process.",
+"kw": "inherent powers quash FIR high court abuse of process CrPC 482"
+},
+{
+"act": "BSA",
+"sec": "2",
+"title": "Definitions, including document and evidence",
+"text": "'Document' includes electronic and digital records, such as emails, server logs, documents on computers, laptops or smartphones, messages, websites, locational evidence and voice mail messages stored on digital devices. 'Evidence' includes oral evidence, which may be given electronically, and documentary evidence including electronic or digital records.",
+"plain": "Under the new evidence law, emails, phone data, chats and location data clearly count as documents.",
+"kw": "document electronic record digital evidence definition IEA 3"
+},
+{
+"act": "BSA",
+"sec": "22",
+"title": "Confession caused by inducement, threat, coercion or promise",
+"text": "A confession made by an accused person is irrelevant in a criminal proceeding if it appears to the Court to have been caused by any inducement, threat, coercion or promise from a person in authority relating to the charge.",
+"plain": "A confession obtained through threats, pressure or promises cannot be used.",
+"kw": "confession coercion threat inducement IEA 24"
+},
+{
+"act": "BSA",
+"sec": "23",
+"title": "Confession to police officer",
+"text": "No confession made to a police officer shall be proved against the accused. No confession made while in police custody shall be proved unless made in the immediate presence of a Magistrate. However, when a fact is discovered in consequence of information received from an accused in police custody, so much of the information as relates distinctly to the fact discovered may be proved.",
+"plain": "Confessions to police are not evidence. Only the part that leads police to discover a fact (like a hidden weapon) can be used.",
+"kw": "confession police custody discovery of fact IEA 25 26 27"
+},
+{
+"act": "BSA",
+"sec": "39",
+"title": "Opinions of experts",
+"text": "When the Court has to form an opinion on foreign law, science, art, handwriting or finger impressions, opinions of persons specially skilled in those fields are relevant facts. When the Court has to form an opinion on information transmitted or stored in a computer resource or other electronic form, the opinion of the Examiner of Electronic Evidence is a relevant fact.",
+"plain": "Courts can rely on experts, including digital forensic examiners, for technical questions.",
+"kw": "expert opinion forensic handwriting electronic evidence examiner IEA 45 45A"
+},
+{
+"act": "BSA",
+"sec": "57",
+"title": "Primary evidence",
+"text": "Primary evidence means the document itself produced for inspection. Where an electronic or digital record is created or stored and such storage occurs simultaneously or sequentially in multiple files, each such file is primary evidence. A record produced from proper custody is primary evidence unless disputed.",
+"plain": "The original document is primary evidence, and for digital records each stored copy can count as original.",
+"kw": "primary evidence original document electronic IEA 62"
+},
+{
+"act": "BSA",
+"sec": "61",
+"title": "Electronic or digital record",
+"text": "Nothing in the Adhiniyam shall apply to deny the admissibility of an electronic or digital record in evidence on the ground that it is an electronic or digital record, and such record shall have the same legal effect, validity and enforceability as other documents, subject to section 63.",
+"plain": "Digital evidence cannot be rejected just because it is digital.",
+"kw": "electronic record admissibility digital evidence new"
+},
+{
+"act": "BSA",
+"sec": "63",
+"title": "Admissibility of electronic records",
+"text": "Information in an electronic record that is printed, stored, recorded or copied in optical or magnetic media or semiconductor memory is deemed a document and admissible if prescribed conditions are met. A certificate in the form in the Schedule, signed by the person in charge of the device and an expert, must accompany it.",
+"plain": "To use WhatsApp chats, CCTV or emails as evidence, you generally need a certificate in the prescribed form. This replaces Section 65B of the Evidence Act.",
+"kw": "65B certificate electronic evidence CCTV WhatsApp email admissible IEA 65B"
+},
+{
+"act": "BSA",
+"sec": "104",
+"title": "Burden of proof",
+"text": "Whoever desires any Court to give judgment as to any legal right or liability dependent on the existence of facts which they assert must prove that those facts exist.",
+"plain": "The person who claims something must prove it. In criminal cases, the prosecution must prove guilt.",
+"kw": "burden of proof onus prove IEA 101"
+},
+{
+"act": "CPA",
+"sec": "2(7)",
+"title": "Definition of consumer",
+"text": "A consumer is any person who buys goods or hires or avails of services for consideration, which has been paid, promised or partly paid, including under deferred payment, and includes users with the buyer's approval. It does not include a person who obtains goods for resale or for any commercial purpose. Transactions can be offline or online, through electronic means, teleshopping, direct selling or multi-level marketing.",
+"plain": "You are a consumer if you pay for goods or services for your own use, including online shopping. Buying to resell does not count.",
+"kw": "consumer definition online shopping e-commerce commercial purpose"
+},
+{
+"act": "CPA",
+"sec": "2(9)",
+"title": "Consumer rights",
+"text": "Consumer rights include the right to be protected against marketing of hazardous goods and services; to be informed about quality, quantity, potency, purity, standard and price; to be assured access to a variety of goods at competitive prices; to be heard; to seek redressal against unfair or restrictive trade practices; and to consumer awareness.",
+"plain": "Six consumer rights: safety, information, choice, being heard, redressal and awareness.",
+"kw": "consumer rights safety information choice redressal"
+},
+{
+"act": "CPA",
+"sec": "2(11)",
+"title": "Deficiency",
+"text": "Deficiency means any fault, imperfection, shortcoming or inadequacy in the quality, nature and manner of performance required by law or contract in relation to a service, and includes negligence or deliberate withholding of relevant information causing loss or injury to the consumer.",
+"plain": "Poor or incomplete service, like delayed flats, bad repairs or hidden charges, is 'deficiency in service'.",
+"kw": "deficiency in service bad service negligence complaint"
+},
+{
+"act": "CPA",
+"sec": "2(47)",
+"title": "Unfair trade practice",
+"text": "Unfair trade practice includes false representation about goods or services, misleading advertisements, false offers of gifts or prizes, refusing to take back defective goods or refund within the stated period, not issuing a bill or cash memo, and disclosing a consumer's personal information without consent, among others.",
+"plain": "Tricks like false claims, fake offers, refusing refunds or not giving a bill are unfair trade practices.",
+"kw": "unfair trade practice misleading refund bill personal data"
+},
+{
+"act": "CPA",
+"sec": "34",
+"title": "Jurisdiction of District Commission",
+"text": "The District Commission hears complaints where the value of goods or services paid as consideration does not exceed the limit prescribed. Under the Consumer Protection (Jurisdiction) Rules, 2021, the limits are: District Commission up to fifty lakh rupees, State Commission above fifty lakh up to two crore rupees, and National Commission above two crore rupees. A complaint may be filed where the opposite party resides or carries on business, where the cause of action arose, or where the complainant resides or personally works for gain.",
+"plain": "Claims up to ₹50 lakh go to the District Commission. You can file where you live or work, so you do not need to travel to the company's city.",
+"kw": "jurisdiction district commission pecuniary limit 50 lakh 2 crore where to file where file which commission lakh value"
+},
+{
+"act": "CPA",
+"sec": "35",
+"title": "Manner of filing complaint",
+"text": "A complaint can be filed with the District Commission by the consumer, a recognised consumer association, one or more consumers with the same interest, the Central or State Government, or the Central Authority. The complaint may be filed electronically in the prescribed manner.",
+"plain": "You can file a consumer complaint yourself, even online through the e-Daakhil portal. You do not need a lawyer.",
+"kw": "file complaint e-daakhil online consumer court procedure"
+},
+{
+"act": "CPA",
+"sec": "38",
+"title": "Procedure on admission of complaint",
+"text": "The District Commission refers the complaint to the opposite party, who must reply within thirty days, extendable by up to fifteen days. The complaint shall be decided as far as possible within three months from the date of notice to the opposite party, or five months if testing or analysis of commodities is required.",
+"plain": "The company gets 30 days (plus up to 15) to reply. Cases should be decided in about 3 to 5 months.",
+"kw": "procedure timeline reply 30 days three months decide"
+},
+{
+"act": "CPA",
+"sec": "39",
+"title": "Findings of District Commission",
+"text": "If satisfied, the Commission may order the opposite party to remove the defect, replace goods, refund the price, pay compensation for loss or injury, pay punitive damages, discontinue unfair trade practices, withdraw hazardous goods, issue corrective advertisement, and pay adequate costs.",
+"plain": "The Commission can order repair, replacement, refund, compensation and costs.",
+"kw": "refund replacement compensation relief order"
+},
+{
+"act": "CPA",
+"sec": "41",
+"title": "Appeal against order of District Commission",
+"text": "Any person aggrieved by an order of the District Commission may appeal to the State Commission within forty-five days. An appeal by a person required to pay must be accompanied by deposit of fifty per cent of the amount ordered.",
+"plain": "Appeal to the State Commission within 45 days. If you must pay, deposit half the amount first.",
+"kw": "appeal state commission 45 days deposit"
+},
+{
+"act": "CPA",
+"sec": "69",
+"title": "Limitation period",
+"text": "The District, State or National Commission shall not admit a complaint unless it is filed within two years from the date on which the cause of action has arisen. A delayed complaint may be entertained if the complainant satisfies the Commission that there was sufficient cause.",
+"plain": "File within 2 years of the problem. Delays can be excused only for a good reason.",
+"kw": "limitation two years time limit delay time limit deadline file complaint"
+},
+{
+"act": "CPA",
+"sec": "84",
+"title": "Liability of product manufacturer",
+"text": "A product manufacturer is liable in a product liability action if the product contains a manufacturing defect, is defective in design, deviates from manufacturing specifications, does not conform to an express warranty, or fails to contain adequate instructions or warnings.",
+"plain": "Manufacturers are responsible for harm caused by defective products, even without proof of negligence.",
+"kw": "product liability manufacturer defect warranty harm"
+},
+{
+"act": "CPA",
+"sec": "89",
+"title": "Punishment for false or misleading advertisement",
+"text": "Any manufacturer or service provider who causes a false or misleading advertisement prejudicial to consumers shall be punished with imprisonment up to two years and fine up to ten lakh rupees; for every subsequent offence, imprisonment up to five years and fine up to fifty lakh rupees.",
+"plain": "Misleading ads can lead to jail and heavy fines for the company.",
+"kw": "misleading advertisement punishment fine"
+},
+{
+"act": "RTI",
+"sec": "2(f)",
+"title": "Definition of information",
+"text": "Information means any material in any form, including records, documents, memos, e-mails, opinions, advices, press releases, circulars, orders, logbooks, contracts, reports, papers, samples, models and data in electronic form, and information about a private body that a public authority can access under any law.",
+"plain": "Almost any record held by a government office counts as information, including emails and files.",
+"kw": "information definition records documents emails"
+},
+{
+"act": "RTI",
+"sec": "2(h)",
+"title": "Public authority",
+"text": "Public authority means any authority or body or institution of self-government established by the Constitution, by Parliament or State law, or by government notification, and includes bodies owned, controlled or substantially financed by government, and NGOs substantially financed by government.",
+"plain": "Government departments, PSUs, municipal bodies and government-funded organisations must answer RTI requests.",
+"kw": "public authority government body NGO financed"
+},
+{
+"act": "RTI",
+"sec": "3",
+"title": "Right to information",
+"text": "Subject to the provisions of this Act, all citizens shall have the right to information.",
+"plain": "Every Indian citizen can ask for government information.",
+"kw": "right to information citizen"
+},
+{
+"act": "RTI",
+"sec": "4",
+"title": "Obligations of public authorities",
+"text": "Every public authority shall maintain records properly and proactively publish details such as its organisation, functions, powers and duties of officers, norms, rules, budget, subsidy programmes, and particulars of Public Information Officers, so that the public needs minimum resort to RTI requests.",
+"plain": "Offices must publish key information on their own, without anyone asking.",
+"kw": "proactive disclosure suo motu publish website"
+},
+{
+"act": "RTI",
+"sec": "6",
+"title": "Request for obtaining information",
+"text": "A person seeking information shall make a request in writing or through electronic means in English, Hindi or the official language of the area to the Public Information Officer, with the prescribed fee. The applicant is not required to give any reason or personal details except those needed to contact them. If the information is held by another authority, the request must be transferred within five days.",
+"plain": "Write a simple application to the PIO with the fee (₹10 under central rules). You need not say why you want the information.",
+"kw": "RTI application fee 10 rupees PIO how to file no reason"
+},
+{
+"act": "RTI",
+"sec": "7",
+"title": "Disposal of request",
+"text": "The PIO shall provide the information or reject the request with reasons within thirty days of receipt. Where the information concerns the life or liberty of a person, it shall be provided within forty-eight hours. Failure to decide within the period is deemed refusal. No fee is charged from persons below the poverty line, and information is free if not supplied within the time limit.",
+"plain": "You must get a reply within 30 days, or 48 hours if life or liberty is involved. No reply counts as refusal, which you can appeal.",
+"kw": "30 days 48 hours time limit reply deemed refusal BPL reply how many days"
+},
+{
+"act": "RTI",
+"sec": "8",
+"title": "Exemption from disclosure",
+"text": "Information is exempt if disclosure would prejudicially affect the sovereignty, security or economic interests of the State; is forbidden by a court; would breach parliamentary privilege; involves commercial confidence or trade secrets; is held in a fiduciary relationship; is received in confidence from a foreign government; would endanger life or safety; would impede investigation; is a cabinet paper before decision; or is personal information unrelated to public activity. Under sub-section (2), access may be allowed if public interest outweighs harm.",
+"plain": "Some information, like national security matters or private personal data, can be withheld, but public interest can override this.",
+"kw": "exemption denied personal information security confidential public interest"
+},
+{
+"act": "RTI",
+"sec": "19",
+"title": "Appeal",
+"text": "A person who does not receive a decision within time or is aggrieved by it may file a first appeal within thirty days to an officer senior in rank to the PIO, who shall decide within thirty days, extendable to forty-five days. A second appeal lies to the Central or State Information Commission within ninety days of the first appellate decision.",
+"plain": "First appeal within 30 days to a senior officer; second appeal within 90 days to the Information Commission.",
+"kw": "first appeal second appeal information commission CIC 30 90 days"
+},
+{
+"act": "RTI",
+"sec": "20",
+"title": "Penalties",
+"text": "Where the Information Commission finds that a PIO has, without reasonable cause, refused to receive an application, not furnished information within time, malafidely denied it, knowingly given incorrect or misleading information, or destroyed information, it shall impose a penalty of two hundred and fifty rupees each day until the information is furnished, the total not exceeding twenty-five thousand rupees.",
+"plain": "An officer who wrongly delays or refuses information can be fined ₹250 per day, up to ₹25,000.",
+"kw": "penalty PIO fine 250 25000"
+},
+{
+"act": "RTI",
+"sec": "24",
+"title": "Act not to apply to certain organisations",
+"text": "The Act does not apply to intelligence and security organisations listed in the Second Schedule, except information relating to allegations of corruption and human rights violations.",
+"plain": "Intelligence agencies are outside RTI, except for corruption and human rights complaints.",
+"kw": "exempt organisations intelligence corruption human rights"
+},
+{
+"act": "ICA",
+"sec": "2(h)",
+"title": "Contract",
+"text": "An agreement enforceable by law is a contract.",
+"plain": "A contract is an agreement that the law will enforce.",
+"kw": "contract definition agreement enforceable"
+},
+{
+"act": "ICA",
+"sec": "10",
+"title": "What agreements are contracts",
+"text": "All agreements are contracts if they are made by the free consent of parties competent to contract, for a lawful consideration and with a lawful object, and are not expressly declared to be void.",
+"plain": "A valid contract needs free consent, capable parties, lawful consideration and a lawful purpose.",
+"kw": "valid contract essentials free consent consideration lawful object"
+},
+{
+"act": "ICA",
+"sec": "11",
+"title": "Who are competent to contract",
+"text": "Every person is competent to contract who is of the age of majority according to the law to which he is subject, who is of sound mind, and is not disqualified from contracting by any law.",
+"plain": "Only adults of sound mind can make contracts. A contract with a minor is void (Mohori Bibee v Dharmodas Ghose).",
+"kw": "competent minor sound mind capacity minor enter contract age 18"
+},
+{
+"act": "ICA",
+"sec": "23",
+"title": "Lawful consideration and object",
+"text": "The consideration or object of an agreement is lawful unless it is forbidden by law, would defeat any law, is fraudulent, involves injury to person or property, or is immoral or opposed to public policy. Every such agreement is void.",
+"plain": "Agreements to do something illegal, fraudulent or against public policy are void.",
+"kw": "unlawful object public policy void agreement"
+},
+{
+"act": "ICA",
+"sec": "27",
+"title": "Agreement in restraint of trade void",
+"text": "Every agreement by which anyone is restrained from exercising a lawful profession, trade or business of any kind is to that extent void, except an agreement not to carry on a similar business on sale of goodwill, within specified local limits.",
+"plain": "Non-compete clauses that stop you working after a job ends are generally void in India.",
+"kw": "non-compete restraint of trade employment bond void"
+},
+{
+"act": "ICA",
+"sec": "73",
+"title": "Compensation for loss caused by breach",
+"text": "When a contract is broken, the party who suffers is entitled to compensation for any loss or damage which naturally arose in the usual course of things from the breach, or which the parties knew when they made the contract to be likely to result. No compensation is given for remote and indirect loss.",
+"plain": "If someone breaks a contract, you can claim the natural, foreseeable losses, not remote ones (Hadley v Baxendale rule).",
+"kw": "breach damages compensation remote loss"
+},
+{
+"act": "ICA",
+"sec": "74",
+"title": "Compensation where penalty is stipulated",
+"text": "When a contract names a sum to be paid on breach, or contains a penalty stipulation, the party complaining is entitled to receive reasonable compensation not exceeding the amount named or the penalty stipulated.",
+"plain": "Even if a contract names a large penalty, courts award only reasonable compensation, up to that amount.",
+"kw": "penalty liquidated damages reasonable compensation clause"
+},
+{
+"act": "LSA",
+"sec": "12",
+"title": "Criteria for giving legal services",
+"text": "Every person who has to file or defend a case is entitled to free legal services if that person is a member of a Scheduled Caste or Scheduled Tribe; a victim of trafficking or begar; a woman or a child; a person with disability; a victim of mass disaster, ethnic violence, caste atrocity, flood, drought, earthquake or industrial disaster; an industrial workman; in custody, including a protective home or psychiatric hospital; or has annual income below the limit prescribed by the State or Central Government.",
+"plain": "Women, children, SC/ST members, persons with disability, people in custody, and low-income people can get a free lawyer from the Legal Services Authority.",
+"kw": "free legal aid eligibility NALSA DLSA lawyer women children poor eligible eligibility who can get"
+},
+{
+"act": "LSA",
+"sec": "19",
+"title": "Organisation of Lok Adalats",
+"text": "Legal Services Authorities may organise Lok Adalats at such intervals and places as they think fit to determine and arrive at a compromise or settlement of disputes pending before a court or at the pre-litigation stage, except offences that are not compoundable.",
+"plain": "Lok Adalats are people's courts that settle disputes by compromise, quickly and without court fees.",
+"kw": "lok adalat settlement compromise pre-litigation"
+},
+{
+"act": "LSA",
+"sec": "21",
+"title": "Award of Lok Adalat",
+"text": "Every award of a Lok Adalat is deemed to be a decree of a civil court, is final and binding on all parties, and no appeal lies to any court against it. Court fee paid on a case settled in a Lok Adalat is refunded.",
+"plain": "A Lok Adalat settlement works like a court decree, cannot be appealed, and the court fee is refunded.",
+"kw": "lok adalat award final decree no appeal court fee refund"
+},
+{
+"act": "Registration",
+"sec": "17",
+"title": "Documents of which registration is compulsory",
+"text": "Registration is compulsory for, among others, instruments of gift of immovable property, non-testamentary instruments creating or transferring interests in immovable property of value one hundred rupees or more, and leases of immovable property from year to year, or for any term exceeding one year, or reserving a yearly rent.",
+"plain": "A lease longer than one year must be registered. This is why many rent agreements are made for 11 months.",
+"kw": "registration lease rent agreement 11 months immovable property compulsory"
+},
+{
+"act": "Registration",
+"sec": "49",
+"title": "Effect of non-registration",
+"text": "A document required to be registered under section 17 that is not registered shall not affect any immovable property comprised in it, nor be received as evidence of any transaction affecting such property, except as evidence of a contract in a suit for specific performance or for any collateral purpose.",
+"plain": "An unregistered document that needed registration has very limited value in court.",
+"kw": "unregistered document effect evidence collateral purpose"
+},
+{
+"act": "MTA",
+"sec": "11",
+"title": "Security deposit",
+"text": "The security deposit payable by the tenant shall not exceed two months' rent for residential premises and six months' rent for non-residential premises, and shall be refunded on taking over vacant possession, after due deductions.",
+"plain": "Where adopted, landlords can ask at most 2 months' rent as deposit for a home and 6 months for a shop or office.",
+"kw": "security deposit two months cap refund rent"
+},
+{
+"act": "MTA",
+"sec": "9",
+"title": "Revision of rent",
+"text": "Revision of rent between landowner and tenant shall be as per the terms in the tenancy agreement. Where not provided, the landowner shall give notice in writing to the tenant three months before the revised rent is to take effect.",
+"plain": "Where adopted, rent increases follow the agreement; otherwise 3 months' written notice is needed.",
+"kw": "rent increase revision notice three months"
+},
+{
+"act": "MTA",
+"sec": "17",
+"title": "Entry into premises",
+"text": "The landowner or property manager may enter the premises for inspection, repair or replacement by giving prior notice in writing or electronic mode at least twenty-four hours before the time of entry, between seven a.m. and eight p.m.",
+"plain": "Where adopted, the landlord must give 24 hours' notice before entering, and only in the daytime.",
+"kw": "landlord entry notice 24 hours privacy inspection"
+}
+]

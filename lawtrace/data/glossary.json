@@ -1,0 +1,374 @@
+{
+"notwithstanding": [
+"despite",
+"Despite; even if something else says otherwise."
+],
+"hereinafter": [
+"from now on",
+"From this point on in the document."
+],
+"hereinbefore": [
+"earlier in this document",
+"Earlier in this same document."
+],
+"herein": [
+"in this document",
+"In this document."
+],
+"hereto": [
+"to this document",
+"To this document."
+],
+"hereby": [
+"by this document",
+"By means of this document."
+],
+"thereof": [
+"of it",
+"Of that thing just mentioned."
+],
+"therein": [
+"in it",
+"In that thing just mentioned."
+],
+"thereto": [
+"to it",
+"To that thing just mentioned."
+],
+"whereas": [
+"since",
+"Introduces background facts; means 'since' or 'because'."
+],
+"aforesaid": [
+"mentioned above",
+"Already mentioned earlier."
+],
+"aforementioned": [
+"mentioned above",
+"Already mentioned earlier."
+],
+"inter alia": [
+"among other things",
+"Among other things."
+],
+"mutatis mutandis": [
+"with the necessary changes",
+"Apply the same rule, changing only what must change."
+],
+"pursuant to": [
+"under",
+"Under or according to."
+],
+"in pursuance of": [
+"under",
+"Under or according to."
+],
+"forthwith": [
+"immediately",
+"Immediately, without delay."
+],
+"in lieu of": [
+"instead of",
+"Instead of."
+],
+"provided that": [
+"but",
+"Introduces an exception or condition (a 'proviso')."
+],
+"save as otherwise provided": [
+"unless stated otherwise",
+"Unless another rule says something different."
+],
+"save and except": [
+"except",
+"Except."
+],
+"shall be deemed": [
+"will be treated as",
+"The law treats it as true even if it is not literally so."
+],
+"deemed": [
+"treated as",
+"Treated as true by law."
+],
+"shall": [
+"must",
+"A mandatory duty."
+],
+"prima facie": [
+"at first look",
+"On first look, before full examination."
+],
+"bona fide": [
+"genuine",
+"In good faith; genuine."
+],
+"mala fide": [
+"in bad faith",
+"Dishonestly, with bad intention."
+],
+"ex parte": [
+"without the other side",
+"Decided in the absence of the other party."
+],
+"sub judice": [
+"pending in court",
+"Under consideration by a court."
+],
+"suo motu": [
+"on its own",
+"On its own initiative, without a petition."
+],
+"ultra vires": [
+"beyond legal power",
+"Beyond the legal power of the person or body."
+],
+"locus standi": [
+"right to sue",
+"The right to bring a case to court."
+],
+"indemnify": [
+"cover the losses of",
+"Promise to cover someone else's losses or costs."
+],
+"indemnity": [
+"promise to cover losses",
+"A promise to make good another person's loss."
+],
+"jointly and severally": [
+"together and individually",
+"Each person can be made to pay the whole amount."
+],
+"liquidated damages": [
+"fixed compensation",
+"A pre-agreed amount payable on breach (Section 74, Contract Act)."
+],
+"force majeure": [
+"unforeseeable",
+"Events beyond control, like floods or war, that excuse performance."
+],
+"lessor": [
+"landlord",
+"The owner who gives property on lease."
+],
+"lessee": [
+"tenant",
+"The person who takes property on lease."
+],
+"licensor": [
+"owner",
+"The owner who allows use of property."
+],
+"licensee": [
+"user",
+"The person allowed to use property."
+],
+"demised premises": [
+"rented property",
+"The property given on rent."
+],
+"encumbrance": [
+"claim on the property",
+"A charge, loan or claim attached to property."
+],
+"hypothecation": [
+"pledging without handing over",
+"Using movable property as loan security while keeping it."
+],
+"lien": [
+"right to hold property until paid",
+"A right to keep someone's property until a debt is paid."
+],
+"covenant": [
+"formal promise",
+"A formal promise in a deed."
+],
+"waiver": [
+"giving up a right",
+"Voluntarily giving up a right."
+],
+"severability": [
+"the rest stays valid",
+"If one clause is invalid, the others still apply."
+],
+"arbitration": [
+"private dispute settlement",
+"Settling a dispute through a private arbitrator instead of a court."
+],
+"jurisdiction": [
+"power of the court",
+"Which court has the power to hear a case."
+],
+"cognizable": [
+"police can arrest without warrant",
+"An offence where police can register an FIR and arrest without a warrant."
+],
+"non-cognizable": [
+"police need court permission",
+"An offence where police need a magistrate's order to investigate."
+],
+"cognizance": [
+"court formally notices the case",
+"When a court formally takes notice of an offence to begin proceedings."
+],
+"bailable": [
+"bail is a right",
+"An offence where bail is a matter of right."
+],
+"non-bailable": [
+"bail is at court's discretion",
+"An offence where bail depends on the court."
+],
+"compoundable": [
+"can be settled",
+"An offence the victim can settle with the accused."
+],
+"anticipatory bail": [
+"bail before arrest",
+"Bail granted before arrest to someone who fears arrest."
+],
+"surety": [
+"guarantor",
+"A person who guarantees that the accused will appear in court."
+],
+"remand": [
+"sending back to custody",
+"Sending an accused to police or judicial custody."
+],
+"acquittal": [
+"found not guilty",
+"A court decision that the accused is not guilty."
+],
+"conviction": [
+"found guilty",
+"A court decision that the accused is guilty."
+],
+"charge sheet": [
+"police final report",
+"The police report filed after investigation listing the accusations."
+],
+"affidavit": [
+"sworn written statement",
+"A written statement sworn to be true."
+],
+"injunction": [
+"court order to do or stop something",
+"A court order requiring someone to do or not do an act."
+],
+"decree": [
+"final court decision",
+"The formal result of a civil case."
+],
+"plaintiff": [
+"person who files a civil case",
+"The person who brings a civil suit."
+],
+"defendant": [
+"person sued",
+"The person against whom a civil suit is filed."
+],
+"appellant": [
+"person who appeals",
+"The person who files an appeal."
+],
+"respondent": [
+"other side in appeal",
+"The person who answers an appeal or petition."
+],
+"petitioner": [
+"person filing petition",
+"The person who files a petition."
+],
+"vakalatnama": [
+"lawyer authorisation",
+"The document authorising a lawyer to act for you."
+],
+"caveat": [
+"request to be heard first",
+"A notice asking the court not to pass orders without hearing you."
+],
+"interim": [
+"temporary",
+"Temporary, until the final decision."
+],
+"quash": [
+"cancel",
+"To cancel or set aside."
+],
+"tort": [
+"civil wrong",
+"A civil wrong, other than breach of contract, causing harm."
+],
+"negligence": [
+"carelessness",
+"Failure to take reasonable care."
+],
+"estoppel": [
+"can't go back on your word",
+"A rule stopping someone from denying what they earlier said or did."
+],
+"easement": [
+"right to use another's land",
+"A right to use someone else's land, like a pathway."
+],
+"consideration": [
+"something in exchange",
+"What each party gives or promises in exchange."
+],
+"void": [
+"not valid at all",
+"Having no legal effect from the start."
+],
+"voidable": [
+"can be cancelled",
+"Valid until the affected party chooses to cancel it."
+],
+"testator": [
+"person making a will",
+"The person who makes a will."
+],
+"intestate": [
+"without a will",
+"Dying without a valid will."
+],
+"power of attorney": [
+"authority to act for you",
+"A document letting someone act on your behalf."
+],
+"lock-in period": [
+"minimum stay period",
+"A period during which you cannot end the agreement without penalty."
+],
+"stamp duty": [
+"tax on documents",
+"A tax paid to make certain documents legally valid."
+],
+"in perpetuity": [
+"forever",
+"For all time."
+],
+"inter se": [
+"between themselves",
+"Between or among the parties themselves."
+],
+"de novo": [
+"afresh",
+"From the beginning, anew."
+],
+"ad interim": [
+"temporary",
+"For the meantime."
+],
+"per se": [
+"by itself",
+"By itself, in itself."
+],
+"ipso facto": [
+"by that very fact",
+"By that very fact or act."
+],
+"status quo": [
+"existing situation",
+"The situation as it is now."
+]
+}

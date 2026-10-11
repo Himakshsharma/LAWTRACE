@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <radialGradient id="sky" cx="50%" cy="38%" r="70%">
+      <stop offset="0" stop-color="#2a2412"/>
+      <stop offset=".45" stop-color="#11131a"/>
+      <stop offset="1" stop-color="#05070b"/>
+    </radialGradient>
+    <linearGradient id="lawn" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1410"/>
+      <stop offset="1" stop-color="#05070b"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#f2c85b" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#f2c85b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#sky)"/>
+  <ellipse cx="800" cy="300" rx="330" ry="230" fill="url(#halo)"/>
+  <g fill="none" stroke="#d9a93a" stroke-linecap="round" stroke-linejoin="round" opacity=".85">
+    <!-- dome -->
+    <path d="M800 168 v34" stroke-width="2"/>
+    <path d="M786 202 h28 l-6 14 h-16z" stroke-width="2"/>
+    <path d="M690 336 a110 112 0 0 1 220 0" stroke-width="3"/>
+    <path d="M712 336 a88 96 0 0 1 176 0" stroke-width="1" opacity=".5"/>
+    <path d="M800 224 v112 M755 238 q-20 50 -24 98 M845 238 q20 50 24 98" stroke-width="1" opacity=".45"/>
+    <rect x="676" y="336" width="248" height="22" stroke-width="2"/>
+    <rect x="690" y="358" width="220" height="70" stroke-width="2"/>
+    <path d="M710 368 v50 M735 368 v50 M760 368 v50 M785 368 v50 M815 368 v50 M840 368 v50 M865 368 v50 M890 368 v50" stroke-width="1.4" opacity=".7"/>
+    <!-- central block and portico -->
+    <path d="M620 428 h360 v22 h-360z" stroke-width="2.4"/>
+    <path d="M640 450 h320 v300 h-320z" stroke-width="2.4"/>
+    <path d="M664 470 v262 M700 470 v262 M736 470 v262 M772 470 v262 M828 470 v262 M864 470 v262 M900 470 v262 M936 470 v262" stroke-width="2"/>
+    <path d="M772 610 a28 30 0 0 1 56 0 v122 h-56z" stroke-width="2"/>
+    <!-- wings -->
+    <path d="M200 520 h440 M960 520 h440" stroke-width="2.4"/>
+    <path d="M200 520 v230 M1400 520 v230" stroke-width="2.4"/>
+    <path d="M200 540 h440 M960 540 h440" stroke-width="1.2" opacity=".6"/>
+    <g stroke-width="1.6" opacity=".75">
+      <path d="M232 570 a14 16 0 0 1 28 0 v52 h-28z M292 570 a14 16 0 0 1 28 0 v52 h-28z M352 570 a14 16 0 0 1 28 0 v52 h-28z M412 570 a14 16 0 0 1 28 0 v52 h-28z M472 570 a14 16 0 0 1 28 0 v52 h-28z M532 570 a14 16 0 0 1 28 0 v52 h-28z M592 570 a14 16 0 0 1 28 0 v52 h-28z"/>
+      <path d="M982 570 a14 16 0 0 1 28 0 v52 h-28z M1042 570 a14 16 0 0 1 28 0 v52 h-28z M1102 570 a14 16 0 0 1 28 0 v52 h-28z M1162 570 a14 16 0 0 1 28 0 v52 h-28z M1222 570 a14 16 0 0 1 28 0 v52 h-28z M1282 570 a14 16 0 0 1 28 0 v52 h-28z M1342 570 a14 16 0 0 1 28 0 v52 h-28z"/>
+      <path d="M232 660 h28 v62 h-28z M292 660 h28 v62 h-28z M352 660 h28 v62 h-28z M412 660 h28 v62 h-28z M472 660 h28 v62 h-28z M532 660 h28 v62 h-28z M592 660 h28 v62 h-28z"/>
+      <path d="M982 660 h28 v62 h-28z M1042 660 h28 v62 h-28z M1102 660 h28 v62 h-28z M1162 660 h28 v62 h-28z M1222 660 h28 v62 h-28z M1282 660 h28 v62 h-28z M1342 660 h28 v62 h-28z"/>
+    </g>
+    <path d="M180 500 h80 v20 M1420 500 h-80 v20 M180 500 v250 M1420 500 v250" stroke-width="2"/>
+    <!-- steps and ground -->
+    <path d="M600 750 h400 M580 766 h440 M560 782 h480 M80 750 h1440" stroke-width="2"/>
+    <path d="M0 800 h1600" stroke-width="1" opacity=".35"/>
+  </g>
+  <rect y="800" width="1600" height="100" fill="url(#lawn)"/>
+</svg>

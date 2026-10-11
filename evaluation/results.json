@@ -1,0 +1,55 @@
+{
+  "n": 56,
+  "answerable": 51,
+  "off_topic": 5,
+  "hit@1": 0.9215686274509803,
+  "hit@5": 0.9803921568627451,
+  "mrr": 0.9444444444444445,
+  "refusal_accuracy": 1.0,
+  "misses": [
+    {
+      "q": "hit and run accident punishment",
+      "expected": [
+        "BNS-106"
+      ],
+      "got": [
+        "BNS-4",
+        "BNS-64",
+        "BNS-106"
+      ]
+    },
+    {
+      "q": "Where can I file a consumer complaint worth 30 lakh?",
+      "expected": [
+        "CPA-34"
+      ],
+      "got": [
+        "CPA-35",
+        "CPA-38",
+        "CPA-34"
+      ]
+    },
+    {
+      "q": "Is privacy a fundamental right?",
+      "expected": [
+        "Constitution-21"
+      ],
+      "got": [
+        "Constitution-13",
+        "Constitution-32",
+        "Constitution-300A"
+      ]
+    },
+    {
+      "q": "Who is eligible for free legal aid?",
+      "expected": [
+        "LSA-12"
+      ],
+      "got": [
+        "Constitution-39A",
+        "LSA-12",
+        "Constitution-21A"
+      ]
+    }
+  ]
+}
