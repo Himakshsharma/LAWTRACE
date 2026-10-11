@@ -72,7 +72,14 @@ hr{border-color:var(--brass-faint);}
 [data-testid="stChatInput"] button svg{fill:var(--ink) !important; color:var(--ink) !important;}
 label, [data-testid="stWidgetLabel"] p{color:var(--muted) !important; font-size:.86rem !important;}
 
-/* nav: horizontal radio rendered as text links with a brass underline */
+/* nav: horizontal radio rendered as text links with a brass underline (Streamlit >= 1.50 markup) */
+.st-key-nav [data-testid="stRadioOption"] > div > div:first-child:not([data-testid]){display:none !important;}
+.st-key-nav [data-testid="stRadioOption"]{padding:.35rem 0; margin:0; border-bottom:1.5px solid transparent; cursor:pointer;}
+.st-key-nav [data-testid="stRadioOption"] p{font-size:.95rem; color:var(--parchment); opacity:.78;}
+.st-key-nav [data-testid="stRadioOption"]:hover p{opacity:1;}
+.st-key-nav [data-testid="stRadioOption"][data-selected="true"]{border-bottom-color:var(--brass);}
+.st-key-nav [data-testid="stRadioOption"][data-selected="true"] p{opacity:1; color:var(--brass-hi);}
+/* older Streamlit markup */
 .st-key-nav [role="radiogroup"]{gap:.15rem 1.35rem; justify-content:center; flex-wrap:wrap;}
 .st-key-nav label[data-baseweb="radio"] > div:first-child{display:none;}
 .st-key-nav label[data-baseweb="radio"]{padding:.35rem 0; margin:0; border-bottom:1.5px solid transparent; cursor:pointer;}
@@ -105,7 +112,7 @@ button[role="tab"][aria-selected="true"] p{color:var(--brass-hi);}
 """
 
 GATE = """
-.stApp{background-image:linear-gradient(180deg, rgba(5,7,11,.30) 0%, rgba(5,7,11,.55) 45%, rgba(5,7,11,.92) 100%), {layers};
+.stApp{background-image:linear-gradient(180deg, rgba(5,7,11,.42) 0%, rgba(5,7,11,.62) 45%, rgba(5,7,11,.92) 100%), {layers};
   background-size:cover; background-position:center 40%; background-attachment:fixed;}
 [data-testid="stAppViewContainer"], [data-testid="stMain"], [data-testid="stMainBlockContainer"], .main{background:transparent !important;}
 .block-container, [data-testid="stMainBlockContainer"]{max-width:1240px; padding-top:1.4rem;}
@@ -119,7 +126,7 @@ GATE = """
 .st-key-gatenav .stButton button:hover{background:transparent; color:var(--brass-hi); opacity:1;}
 .st-key-go_start .stButton button, .st-key-go_start button{border:1.5px solid var(--brass) !important; padding:.5rem 1.5rem !important; opacity:1 !important;}
 .st-key-go_start button:hover{background:var(--brass) !important; color:var(--ink) !important;}
-.st-key-enter{display:flex; justify-content:center;}
+.st-key-enter, .st-key-enter .stButton{display:flex !important; justify-content:center !important; width:100% !important;}
 .st-key-enter button{font-family:var(--serif) !important; font-size:1.05rem !important; padding:.75rem 2.6rem !important;
   border:1.5px solid var(--brass) !important; background:rgba(5,7,11,.45) !important; backdrop-filter:blur(3px);}
 .st-key-enter button:hover{background:var(--brass) !important; color:var(--ink) !important;}
