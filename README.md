@@ -1,5 +1,12 @@
 # LAWTRACE
 
+[![CI](https://github.com/Himakshsharma/LAWTRACE/actions/workflows/ci.yml/badge.svg)](https://github.com/Himakshsharma/LAWTRACE/actions/workflows/ci.yml)
+![Python](https://img.shields.io/badge/python-3.11%2B-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-app-FF4B4B)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+**Live app:** [lawtrace.streamlit.app](https://lawtrace.streamlit.app)
+
 *Founded and created by **Himaksh Sharma**.*
 
 **One place for Indian law students.** Ask any legal question in English or Hindi and get an answer traced to the exact section it comes from, with a live view of how the search found it.
